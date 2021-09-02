@@ -5,7 +5,7 @@
   - 게더타운:  <a href=https://www.gather.town target="_blank">Gather | A better way to meet online.</a>
   - 직방 - 오프라인 사무실을 없애고 모든 업무를 온라인으로 수행
   - [직방에는 사무실이 없다? 직방 메타버스 사무실 구경하고 옴!](https://www.youtube.com/watch?app=desktop&v=n2Pzg-dz-Fo)
-- 김세한 - <a href=https://docs.google.com/presentation/d/1zUTgPDnkzENfNCH4be_JKzaF-nlmIQl-Mnxbgx0FgdA/edit#, target="_blank">Superb AI</a>
+- 김세환 - <a href=https://docs.google.com/presentation/d/1zUTgPDnkzENfNCH4be_JKzaF-nlmIQl-Mnxbgx0FgdA/edit#, target="_blank">Superb AI</a>
   - Y Combinator 입성
   - 주력 상품
     - 머신러닝 데이터 플랫폼 (SaaS)
