@@ -1,6 +1,6 @@
 ## 1. 테크 트렌드
 
-> 박재홍 - [0405 테크 트렌드](https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.7xdcaul935zs)
+> 박재홍 - [0405 테크 트렌드](https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.8sq5sla59bu8)
   - [agora](https://www.agora.io/en/products/)
   - [mindsdb](https://mindsdb.com/product/)
   - [Build an Asteroids Game with Python and Pygame](https://realpython.com/asteroids-game-python)
