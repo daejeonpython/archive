@@ -6,6 +6,15 @@
 
     컴퓨터와 사람을 구분 짓기 위한 완전 자동 튜링 테스트
     
+      - reCAPTCHA
+      - [python captcha](https://pypi.org/project/captcha/)
+
+    
+    CAPTCHA 문제점 : 웹 접근성 위배 / 이미지를 볼 수 없는 시각장애인은 CAPTCHA를 통과 못함 / CAPTCHA에는 음성으로 읽어주는 오디오 기능이 들어가 있음... / 봐도  모를정도로 어려운 문제도 있음 / 불편함 / 사용자가 사람임을 증명하는 과정이 필요함
+
+    
+    
+    
   - PoW CAPTCHA 
     
     어떻게 작동되는가?
