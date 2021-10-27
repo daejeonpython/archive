@@ -29,7 +29,7 @@
 
 ## 3. 테크 트렌드
 
-  1027 테크 트렌드 - [확률(Probabilistic) 컴퓨팅](https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.7i52bf5bn0mw)
+  ### 1027 테크 트렌드 - [확률(Probabilistic) 컴퓨팅](https://docs.google.com/document/d/13gzqAOINhNtAMMlULd8JQidMWyDFkNGq97ubg9h5yTA/edit#heading=h.7i52bf5bn0mw)
 
   배경지식 : [양자컴퓨터](https://www.youtube.com/watch?v=MqNlqv1yPqk&ab_channel=%EC%95%88%EB%90%A0%EA%B3%BC%ED%95%99Unrealscience)
   
@@ -40,8 +40,6 @@
   [확률 컴퓨팅의 동작 방식](https://spectrum.ieee.org/waiting-for-quantum-computing-try-probabilistic-computing)
   
   폰노이만 시스템의 약점 - 인수분해(reverse) 문제에 대한 해답!
-  
-  활용 기대 분야 : 
   
   
 
@@ -72,8 +70,9 @@
 |------|---|---|
 |박재홍||테크트렌드 준비|
 |홍은기|||
-|이예빈||테크트렌드 준비|
-|권오규|||
-|김세환|||
-|양원준|||
-|서유진|-||
+|성홍준||Python Variable|
+|이예빈||Python Comments / 테크트렌드준비|
+|권오규||Python Variable|
+|김세환||Python Syntax|
+|양원준||자격증 공부(SQLD, 빅데이터 분석기사 실기)|
+|서유진|-|오늘 발표자료 읽어보기|
